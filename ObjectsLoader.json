@@ -1,0 +1,20 @@
+//通过引擎编辑，已写入游戏内的物体元素
+//此文件所含物体元素名，皆为注册元素名
+//	"Registered Object":["Camera"],
+{
+	"Camera": {
+	  
+		"Name1":{
+			"Texture":{
+				"Normal":"Camera.Normal",
+				"Hold":"Camera.Hold"
+			},
+			"Position":[0,0,0],
+			"Size":[100,100],
+			"Rotation":0
+		  
+		}
+	  
+	}
+  
+}
