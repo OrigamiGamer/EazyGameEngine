@@ -4,7 +4,7 @@
 {
 	"Camera": {
 	  
-		"Name1":{
+		"PlayerView":{
 			"Texture":{
 				"Normal":"Camera.Normal",
 				"Hold":"Camera.Hold"
