@@ -3,49 +3,16 @@
     "Normal": {
       "Path": "/Texture/Camera/Normal.png"
     },
+	"Hover":{
+		"Path":"/Texture/Camera/Hover.png"
+	},
     "Hold": {
       "Path": "/Texture/Camera/Hold.png"
     }
-  },
-  
-  "Camera1": {
-    "Normal": {
-      "Path": "/Texture/Camera/Normal.png"
-    },
-    "Hold": {
-      "Path": "/Texture/Camera/Hold.png"
-    }
-  },
-  
-  "Camera2": {
-    "Normal": {
-      "Path": "/Texture/Camera/Normal.png"
-    },
-    "Hold": {
-      "Path": "/Texture/Camera/Hold.png"
-    }
-  },
-
-  "Camera3": {
-    "Normal": {
-      "Path": "/Texture/Camera/Normal.png"
-    },
-    "Hold": {
-      "Path": "/Texture/Camera/Hold.png"
-    }
-  },
-
-  "Camera4": {
-    "Normal": {
-      "Path": "/Texture/Camera/Normal.png"
-    },
-    "Hold": {
-      "Path": "/Texture/Camera/Hold.png"
-    }
+	
   }
 
 
-
-
+ 
 
 }
