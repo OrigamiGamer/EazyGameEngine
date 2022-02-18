@@ -15,6 +15,29 @@
 				"height":50
 			},
 			"Position":{
+				"x":200,
+				"y":240,
+				"z":0
+			},
+			"Rotation":0,
+			"RangeSize":{
+				"width":400,
+				"height":200
+			}
+		  
+		},
+		"Player2Camera":{
+			"Index":1,
+			"Texture":{
+				"Normal":"Camera.Normal",
+				"Hover":"Camera.Hover",
+				"Hold":"Camera.Hold"
+			},
+			"Size":{
+				"width":50,
+				"height":50
+			},
+			"Position":{
 				"x":0,
 				"y":0,
 				"z":0
@@ -26,7 +49,12 @@
 			}
 		  
 		}
-	  
+
+
+
+
+
+		
 	}
   
 }
